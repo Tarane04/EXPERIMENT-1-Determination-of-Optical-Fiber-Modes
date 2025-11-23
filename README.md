@@ -27,7 +27,8 @@ Adjust the fiber tip height to ~50 mm above the white sheet.
 Observe the multimode speckle pattern on the screen. Adjust screws to refine the pattern.
 Replace with single mode fiber patch cord. Observe blur patterns of LP modes (e.g., single lobe, two lobes, etc.) by fine-tuning the coupler screws.
 # 📊 OBSERVATION AND CALCULATION
-WhatsApp Image 2025-11-18 at 22 29 22_b6169fdd
+![Uploading image.png…]()
+
 
 # Result
 The study successfully achieved the aim by observing the lower-order Linearly Polarized (LP) modes of the fiber. The Single Mode Fiber output was examined, showing the fundamental LP01 mode (a single circular spot) and higher-order LP modes (patterns with two, three, and four lobes) when the coupling alignment was slightly adjusted.
