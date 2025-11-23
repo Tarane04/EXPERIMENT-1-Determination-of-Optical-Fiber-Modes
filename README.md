@@ -29,7 +29,8 @@ Observe the multimode speckle pattern on the screen. Adjust screws to refine the
 Replace with single mode fiber patch cord. Observe blur patterns of LP modes (e.g., single lobe, two lobes, etc.) by fine-tuning the coupler screws.
 
 # 📊 OBSERVATION AND CALCULATION
-![WhatsApp Image 2025-11-23 at 21 27 26_fd88bbf8](https://github.com/user-attachments/assets/21d67492-e1d4-463f-b533-e87fe70f4e48)
+
+![WhatsApp Image 2025-11-23 at 21 27 27_d373d091](https://github.com/user-attachments/assets/ee7f2f26-9032-4e00-8771-22b7399e806b)
 
 
 
