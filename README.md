@@ -10,6 +10,7 @@ Source to Fiber Coupler
 Single Mode Fiber
 Fiber Holding Stand
 Opaque Screen
+
 # 📚 THEORY
 The central spot carries 95% of the intensity for laser beams with Gaussian profile. I = Ioe-2(r / w) ^2 where e = 2.718 is the base of the natural logarithm. An accepted definition of a radius of a Gaussian beam is t 0.135 times its peak value Io. This radius is called spot size. The spot diameter is w. Spot Diameter (d) micron = Focal length of the Lens (f) mm x Laser beam full divergence angle (DA) mrad. In order to achieve maximum coupling efficiency, the fiber core diameter has to be bigger than the spot diameter. NA rays = Laser Beam Diameter (B.D.) 2 x Lens Focal Length (f) The source coupler is comprised of two base plates. One of the base plates contains a focusing lens and a female connector receptacle. The other base plate is attached onto the laser. An O-ring is sandwiched between the base plates. Threaded screws interconnect the two base plates. A screw driver to alter the angular orientation of one base plate relative to the other can then adjust the screws.
 
@@ -26,8 +27,10 @@ Connect the multimode fiber patch cord to the coupler and secure the other end i
 Adjust the fiber tip height to ~50 mm above the white sheet.
 Observe the multimode speckle pattern on the screen. Adjust screws to refine the pattern.
 Replace with single mode fiber patch cord. Observe blur patterns of LP modes (e.g., single lobe, two lobes, etc.) by fine-tuning the coupler screws.
+
 # 📊 OBSERVATION AND CALCULATION
-![Uploading image.png…]()
+![WhatsApp Image 2025-11-23 at 21 27 26_fd88bbf8](https://github.com/user-attachments/assets/21d67492-e1d4-463f-b533-e87fe70f4e48)
+
 
 
 # Result
